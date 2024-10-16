@@ -1,0 +1,9 @@
+{
+    "aws_access_key": "xxxx",
+    "aws_secret_key": "yyyyyy",
+    "region": "xxxx",
+    "source_ami": "xxxx",
+    "instance_type": "xxxx",
+    "vpc_id": "xxxx",
+    "subnet_id": "xxxx"
+}
